@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<!-- saved from url=(0060)https://meghendranaidu.github.io/Resume-Task/26_07_2025.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESUME</title>
+</head>
+<body>
+    <center>
+    <table border="1" cellspacing="0" cellpadding="10" width="70%">
+        <tbody><tr>
+            <td>
+                <pre align="center">                    
+                    <input type="file" name="Photo" placeholder="Profile Photo" required="">
+                    <h1>Nithisha</h1><p><b>Email:</b>nithishayash29@gmail.com | <b>Phone:</b>+91-xxxxxxxxxx</p>
+                </pre>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h1><b>Education</b></h1>
+                <table border="1" cellspacing="0" cellpadding="10" width="100%">
+                    <tbody><tr align="center">
+                        <th>Degree</th>
+                        <th>Institute</th>
+                        <th>Year</th>
+                        <th>Percentage</th>
+                    </tr>
+                    <tr align="center">
+                        <td>B.Tech</td>
+                        <td>ABC College</td>
+                        <td>2024</td>
+                        <td>75%</td>
+                    </tr>
+                    <tr align="center">
+                        <td>Intermediate</td>
+                        <td>XYZ Junior College</td>
+                        <td>2020</td>
+                        <td>88%</td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h1><b>Technical Skill</b></h1>
+                <ul>
+                    <li>HTML5, CSS3</li>
+                    <li>JavaScript, DOM Manipulation</li>
+                    <li>Git & Github</li>
+                    <li>Responsive Web Design</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h1><b></b>Projects</b></h1>
+                <ul>
+                    <li><b>Portfolio Website:</b>Built a personal using HTML, CSS and JavaScript</li>
+                    <li><b>Task Manager App:</b>Develop a task management tool using localStorage</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h1><b>Personal Information</b></h1>
+                <pre><strong>Date of Birth:</strong>    29th January 2003
+<strong>Language:</strong>   English, Telugu   
+<strong>Address:</strong>    12-3-90 Hyderabad, Telangana
+                </pre>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h1><b>Declaration</b></h1>
+                <p>I hereby declare that the information provided above is true to the best of my knowledge.</p>
+            </td>
+        </tr>
+        <tr>
+            <td align="right">
+                <b>Signature:</b>Nithisha
+            </td>
+        </tr>
+
+    </tbody></table>
+    </center>
+
+</body></html>
